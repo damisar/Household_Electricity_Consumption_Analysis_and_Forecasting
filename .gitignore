@@ -1,0 +1,23 @@
+
+# Large raw datasets
+data/*.txt
+data/*.csv
+data/*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local configuration
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
