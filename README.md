@@ -30,6 +30,17 @@ The source data include electrical measurements such as global active power, glo
 
 **Data availability:** The raw dataset is not included in this repository. Download `household_power_consumption.txt` from the UCI source and place it in the local `data/` directory before running the notebook.
 
+## Technologies Used
+
+- Python
+- Jupyter Notebook
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- Scikit-learn
+- XGBoost
+- TensorFlow / Keras
+- Git and GitHub
+
 ## Analysis workflow
 
 1. **Data loading and inspection:** Inspect columns, data types, missing values, and timestamp consistency.
